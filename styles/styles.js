@@ -30,7 +30,7 @@ export default StyleSheet.create({
         marginTop: 50, 
         padding: 10,
         borderRadius: 10,
-        backgroundColor: '#E9CA01'
+        backgroundColor: '#ED0D92'
     },
 
     group : {
