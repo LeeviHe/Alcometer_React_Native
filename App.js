@@ -45,6 +45,10 @@ export default function App() {
   }
   
   function calculation () {
+    if (gender == '') {
+      alert('No gender chosen')
+      return
+    }
     if (weight.length == 0  || weight == 0) {
       alert('No weight given')
       return
